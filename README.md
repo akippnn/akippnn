@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](/meters.classic.svg)
+![Metrics](/metrics.classic.svg)
