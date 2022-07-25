@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](/metrics.classic.svg)
+![Classic](/metrics.classic.svg)
+![Discussions](/metrics.plugin.discussions.svg)
+![Stars](/metrics.plugin.stars.svg)
