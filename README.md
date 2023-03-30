@@ -42,11 +42,11 @@
   </tr>
   <tr>
     <td>
-      <img src="metrics.classic.svg" alt="Classic Metrics"></img><br>
-      <img src="metrics.plugin.discussions.svg" alt="Discussions Metrics"</img>
-    </td>
-    <td>
-      <img src="metrics.plugin.stars.svg" alt="Stars Metrics"></img>
+      <p align="center">
+        <img src="metrics.classic.svg" alt="Classic Metrics"></img><br>
+        <img src="metrics.plugin.discussions.svg" alt="Discussions Metrics"</img>&nbsp;
+       <img src="metrics.plugin.stars.svg" alt="Stars Metrics"></img>
+      </p>
     </td>
   </tr>
 </table>
