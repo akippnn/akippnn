@@ -15,10 +15,59 @@
       <p>
         I go by the name Aki online.<br>
         Currently studying my first year of Bachelor's of Science in Computer Engineering BSCpE.<br>
-        My website is coming really, really soon. Hopefully.
+        Still working on a lot of things...my website and my README are one of them.<br>
+        Not really a fan of sharing my own personal identity or information<br>
+        <sup>(unless we get to know each other better 🤝)
       </p>
       <p>I don't have a lot to show as of right now, but feel free to check the pinned repositories, I'm currently working on these projects.</p>
       <p>This readme is a work-in-progress. I'm still finding ways to stylize it, maybe with something like an HTML2SVG, but we'll see.<br><span>&#8203;</span></p>
+    </td>
+  </tr>
+</table>
+
+so that you guys would stop asking me what programming language I've used (it's a bit annoying, okay?), here you go:
+  
+<table>
+  <tr>
+    <td><h4>What I touched so far<br><span>&#8203;</td>
+    <td></td>
+  </tr>
+  <tr>
+  </tr>
+    <td>
+      Languages
+    </td>
+    <td>
+      C++<br>
+      C#<br>
+      Shell<br>
+      Lua<br>
+      Python<br>
+      JavaScript (CommonJS, ECMAScript)<br>
+      TypeScript<br>
+      Perl<br>
+      VBA<br>
+      VB.net<br>
+      PHP<br>
+      HTML<br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Databases
+    </td>
+    <td>
+      SQLite<br>
+      MariaDB<br>
+      (soon) MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Tools, Frameworks, etc.
+    </td>
+    <td>
+      Haven't compiled this list yet...
     </td>
   </tr>
 </table>
@@ -42,11 +91,11 @@
   </tr>
   <tr>
     <td>
-      <p align="center">
-        <img src="metrics.classic.svg" alt="Classic Metrics"></img><br>
-        <img src="metrics.plugin.discussions.svg" alt="Discussions Metrics"</img>&nbsp;
-       <img src="metrics.plugin.stars.svg" alt="Stars Metrics"></img>
-      </p>
+      <img src="metrics.classic.svg" alt="Classic Metrics"></img><br>
+      <img src="metrics.plugin.discussions.svg" alt="Discussions Metrics"</img>
+    </td>
+    <td>
+        <img src="metrics.plugin.stars.svg" alt="Stars Metrics"></img>
     </td>
   </tr>
 </table>
