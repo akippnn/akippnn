@@ -1,9 +1,11 @@
 
 # **Hi there 👋**
 
-<sup>Updated 28/3/2023</sup>
+<sup>Updated 2023-9-3</sup>
 
 [![Links](https://img.shields.io/badge/🔗Links-Coming%20soon-purple?style=for-the-badge)](#)
+
+<!--
 
 <table>
   <tr>
@@ -29,7 +31,7 @@ so that you guys would stop asking me what programming language I've used (it's 
   
 <table>
   <tr>
-    <td><h4>What I touched so far<br><span>&#8203;</td>
+    <td><h4>What I touched so far (collecting infinity stones)<br><span>&#8203;</td>
     <td></td>
   </tr>
   <tr>
@@ -38,18 +40,21 @@ so that you guys would stop asking me what programming language I've used (it's 
       Languages
     </td>
     <td>
-      C++<br>
+      C/C++<br>
       C#<br>
-      Shell<br>
+      CMake<br>
+      CSS/SCSS<br>
+      Dockerfile<br>
+      HTML<br>
+      JavaScript (CommonJS, ECMAScript, JSX Typescript)<br>
       Lua<br>
-      Python<br>
-      JavaScript (CommonJS, ECMAScript)<br>
-      TypeScript<br>
+      Nix<br>
       Perl<br>
+      PHP<br>
+      Python<br>
+      Shell<br> 
       VBA<br>
       VB.net<br>
-      PHP<br>
-      HTML<br>
     </td>
   </tr>
   <tr>
@@ -71,7 +76,9 @@ so that you guys would stop asking me what programming language I've used (it's 
     </td>
   </tr>
 </table>
-  
+
+-->
+
 <table>
   <tr>
     <td><h4>📝 A bit of autobiography<br><span>&#8203;</td>
