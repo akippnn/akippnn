@@ -3,7 +3,7 @@
 
 <sup>Updated 2023-9-3</sup>
 
-[![Links](https://img.shields.io/badge/🔗Links-Coming%20soon-purple?style=for-the-badge)](#)
+[![Links](https://img.shields.io/badge/🌐%20Website-akippnn.github.io-blue?style=for-the-badge)](https://akippnn.github.io)
 
 <!--
 
