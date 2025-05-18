@@ -3,7 +3,7 @@
 
 <sup>Updated 2023-9-3</sup>
 
-Will start participating in GitHub more soon (when classes end).
+Will start participating in GitHub more soon (when I have more free time from uni).
 
 <!--[![Links](https://img.shields.io/badge/🌐%20Website-akippnn.github.io-blue?style=for-the-badge)](https://akippnn.github.io)-->
 
