@@ -3,7 +3,9 @@
 
 <sup>Updated 2023-9-3</sup>
 
-[![Links](https://img.shields.io/badge/🌐%20Website-akippnn.github.io-blue?style=for-the-badge)](https://akippnn.github.io)
+Will start participating in GitHub more soon (when classes end).
+
+<!--[![Links](https://img.shields.io/badge/🌐%20Website-akippnn.github.io-blue?style=for-the-badge)](https://akippnn.github.io)-->
 
 <!--
 
