@@ -3,7 +3,10 @@
 
 <sup>Updated 2023-9-3</sup>
 
-Will start participating in GitHub more soon (when I have more free time from uni).
+Will start participating in GitHub more soon, as well as updating this GitHub profile (when I have more free time from uni).
+
+Trying to make some games again, but with support from like-minded people this time.  
+https://akippnn.itch.io/
 
 <!--[![Links](https://img.shields.io/badge/🌐%20Website-akippnn.github.io-blue?style=for-the-badge)](https://akippnn.github.io)-->
 
